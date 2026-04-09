@@ -2,6 +2,8 @@
 
 ## A Beginner-Friendly Guide for Windows & Mac
 
+> *This guide was researched and written by [Claude](https://claude.ai) (Anthropic's AI), using Claude Code. All screenshots were captured live and all information was verified against the official sources at the time of writing. If something looks outdated, check the [Useful Links](#useful-links--resources) section for the latest docs.*
+
 ---
 
 ## What Is This Guide About?
@@ -570,4 +572,4 @@ New to tech? Here's what all these words mean:
 
 *Guide last updated: April 2026*
 
-*Built with OpenCode + GLM. The tools mentioned in this guide.*
+*Written by [Claude](https://claude.ai) (Anthropic's AI) via [Claude Code](https://claude.ai/claude-code). Screenshots captured with Playwright. Published by [@seif9116](https://github.com/seif9116).*
