@@ -18,7 +18,7 @@ This guide teaches you how to set up a powerful **AI coding assistant** on your 
 | **GLM (by Z.AI)** | The AI brain that powers it — made by Zhipu AI, a leading Chinese AI company |
 | **Z.AI Coding Plan** | A cheap subscription that gives you access to GLM's best models |
 
-![OpenCode Homepage — the open source AI coding agent](https://raw.githubusercontent.com/anomalyco/opencode/refs/heads/dev/.github/assets/hero.png)
+![OpenCode Homepage — the open source AI coding agent](./guide-images/01-opencode-homepage.png)
 
 > **Think of it like this:** OpenCode is the app on your computer. GLM is the AI brain in the cloud. The Coding Plan is your monthly pass to use that brain.
 
